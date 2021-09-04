@@ -1,6 +1,3 @@
-var i;
-
-
 
 function operation () {
     const isUserReady = confirm('Please, confirm, to enter action of operation');
